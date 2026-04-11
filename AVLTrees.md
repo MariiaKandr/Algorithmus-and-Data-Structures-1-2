@@ -55,8 +55,6 @@ void updateHeight(AVLNode* node) {
 
 ### 3. Повороты — основа балансировки
 
-<img width="320" height="180" alt="image" src="https://github.com/user-attachments/assets/37082965-890a-4e1e-ae89-b6f1ae0b727e" />
-
 
 **Малый правый поворот** (Right rotate)  
 Применяется, когда левое поддерево слишком высокое (balance ≈ -2) и левый потомок сбалансирован или перекошен влево.
